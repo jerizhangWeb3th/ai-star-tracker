@@ -262,8 +262,14 @@ def generate_report(repos: list[dict], history: dict) -> str:
 
 
 def git_commit_and_push():
-    """提交并推送到 GitHub。"""
+    """提交并推送到 GitHub（使用 SSH）。"""
     try:
+        # 确保使用 SSH remote
+        subprocess.run(
+            ["git", "-C", str(REPO_DIR), "remote", "set-url", "origin",
+             "git@github.com:jerizhangWeb3th/ai-star-tracker.git"],
+            check=True, capture_output=True,
+        )
         subprocess.run(
             ["git", "-C", str(REPO_DIR), "add", "README.md", "data/history.json"],
             check=True,
