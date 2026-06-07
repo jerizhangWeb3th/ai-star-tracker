@@ -1,14 +1,14 @@
 [
   {
     "full_name": "affaan-m/ECC",
-    "stars": 208343,
-    "forks": 31960,
+    "stars": 209149,
+    "forks": 32078,
     "created_at": "2026-01-18T00:51:51Z",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "html_url": "https://github.com/affaan-m/ECC",
     "max_daily_inc": 1806,
     "max_inc_date": "2026-06-04",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "n8n-io/n8n",
@@ -23,14 +23,14 @@
   },
   {
     "full_name": "NousResearch/hermes-agent",
-    "stars": 183081,
-    "forks": 31399,
+    "stars": 184750,
+    "forks": 31714,
     "created_at": "2025-07-22T22:22:28Z",
     "description": "The agent that grows with you",
     "html_url": "https://github.com/NousResearch/hermes-agent",
     "max_daily_inc": 2141,
     "max_inc_date": "2026-06-06",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "langgenius/dify",
@@ -45,36 +45,36 @@
   },
   {
     "full_name": "open-webui/open-webui",
-    "stars": 140053,
-    "forks": 20110,
+    "stars": 140378,
+    "forks": 20153,
     "created_at": "2023-10-06T22:08:27Z",
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "html_url": "https://github.com/open-webui/open-webui",
     "max_daily_inc": 179,
     "max_inc_date": "2026-06-05",
-    "last_seen": "2026-06-05"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "firecrawl/firecrawl",
-    "stars": 129137,
-    "forks": 7685,
+    "stars": 129530,
+    "forks": 7698,
     "created_at": "2024-04-15T21:02:29Z",
     "description": "🔥 Search, scrape, and clean the web for AI agents.",
     "html_url": "https://github.com/firecrawl/firecrawl",
     "max_daily_inc": 514,
     "max_inc_date": "2026-06-04",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stars": 113369,
-    "forks": 16818,
+    "stars": 113538,
+    "forks": 16847,
     "created_at": "2024-04-29T05:30:25Z",
     "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
     "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
     "max_daily_inc": 316,
     "max_inc_date": "2026-06-05",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "browser-use/browser-use",
@@ -89,25 +89,25 @@
   },
   {
     "full_name": "farion1231/cc-switch",
-    "stars": 92617,
-    "forks": 6047,
+    "stars": 93401,
+    "forks": 6102,
     "created_at": "2025-08-04T14:16:16Z",
     "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
     "html_url": "https://github.com/farion1231/cc-switch",
     "max_daily_inc": 1412,
     "max_inc_date": "2026-06-02",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "TauricResearch/TradingAgents",
-    "stars": 83160,
-    "forks": 16116,
+    "stars": 83536,
+    "forks": 16202,
     "created_at": "2024-12-28T03:31:08Z",
     "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "html_url": "https://github.com/TauricResearch/TradingAgents",
     "max_daily_inc": 554,
     "max_inc_date": "2026-06-03",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "vllm-project/vllm",
@@ -121,6 +121,17 @@
     "last_seen": "2026-05-28"
   },
   {
+    "full_name": "PaddlePaddle/PaddleOCR",
+    "stars": 80954,
+    "forks": 10657,
+    "created_at": "2020-05-08T10:38:16Z",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "html_url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "max_daily_inc": 689,
+    "max_inc_date": "2026-06-06",
+    "last_seen": "2026-06-07"
+  },
+  {
     "full_name": "thedotmack/claude-mem",
     "stars": 80860,
     "forks": 6958,
@@ -132,26 +143,15 @@
     "last_seen": "2026-06-06"
   },
   {
-    "full_name": "PaddlePaddle/PaddleOCR",
-    "stars": 80531,
-    "forks": 10632,
-    "created_at": "2020-05-08T10:38:16Z",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-    "html_url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "max_daily_inc": 689,
-    "max_inc_date": "2026-06-06",
-    "last_seen": "2026-06-06"
-  },
-  {
     "full_name": "harry0703/MoneyPrinterTurbo",
-    "stars": 79941,
-    "forks": 11371,
+    "stars": 80476,
+    "forks": 11473,
     "created_at": "2024-03-11T02:57:34Z",
     "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
     "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "max_daily_inc": 3394,
     "max_inc_date": "2026-05-30",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "OpenHands/OpenHands",
@@ -166,14 +166,14 @@
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stars": 69297,
-    "forks": 3906,
+    "stars": 69537,
+    "forks": 3916,
     "created_at": "2026-04-04T10:03:00Z",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "html_url": "https://github.com/JuliusBrussee/caveman",
     "max_daily_inc": 505,
     "max_inc_date": "2026-06-02",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "microsoft/ai-agents-for-beginners",
@@ -188,14 +188,14 @@
   },
   {
     "full_name": "shareAI-lab/learn-claude-code",
-    "stars": 64918,
-    "forks": 10587,
+    "stars": 65049,
+    "forks": 10605,
     "created_at": "2025-06-29T15:34:15Z",
     "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
     "html_url": "https://github.com/shareAI-lab/learn-claude-code",
     "max_daily_inc": 250,
     "max_inc_date": "2026-05-30",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "ComposioHQ/awesome-claude-skills",
@@ -210,14 +210,14 @@
   },
   {
     "full_name": "D4Vinci/Scrapling",
-    "stars": 61256,
-    "forks": 5924,
+    "stars": 61599,
+    "forks": 5963,
     "created_at": "2024-10-13T20:29:53Z",
     "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
     "html_url": "https://github.com/D4Vinci/Scrapling",
     "max_daily_inc": 1414,
     "max_inc_date": "2026-06-02",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "code-yeongyu/oh-my-openagent",
@@ -243,25 +243,25 @@
   },
   {
     "full_name": "safishamsi/graphify",
-    "stars": 59785,
-    "forks": 6210,
+    "stars": 60606,
+    "forks": 6283,
     "created_at": "2026-04-03T15:49:07Z",
     "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
     "html_url": "https://github.com/safishamsi/graphify",
     "max_daily_inc": 4442,
     "max_inc_date": "2026-06-06",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "nexu-io/open-design",
-    "stars": 59434,
-    "forks": 6696,
+    "stars": 60193,
+    "forks": 6767,
     "created_at": "2026-04-28T04:25:20Z",
     "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 100+ Skills · ✨ 100+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
     "html_url": "https://github.com/nexu-io/open-design",
-    "max_daily_inc": 652,
-    "max_inc_date": "2026-06-06",
-    "last_seen": "2026-06-06"
+    "max_daily_inc": 759,
+    "max_inc_date": "2026-06-07",
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "upstash/context7",
@@ -287,36 +287,36 @@
   },
   {
     "full_name": "MemPalace/mempalace",
-    "stars": 53869,
-    "forks": 7079,
+    "stars": 54270,
+    "forks": 7109,
     "created_at": "2026-04-05T01:12:07Z",
     "description": "The best-benchmarked open-source AI memory system. And it's free.",
     "html_url": "https://github.com/MemPalace/mempalace",
-    "max_daily_inc": 317,
-    "max_inc_date": "2026-06-06",
-    "last_seen": "2026-06-06"
+    "max_daily_inc": 401,
+    "max_inc_date": "2026-06-07",
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "santifer/career-ops",
-    "stars": 48707,
-    "forks": 10114,
+    "stars": 49327,
+    "forks": 10197,
     "created_at": "2026-04-04T18:21:18Z",
     "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
     "html_url": "https://github.com/santifer/career-ops",
-    "max_daily_inc": 184,
-    "max_inc_date": "2026-06-03",
-    "last_seen": "2026-06-05"
+    "max_daily_inc": 431,
+    "max_inc_date": "2026-06-07",
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "aaif-goose/goose",
-    "stars": 46724,
-    "forks": 4888,
+    "stars": 47004,
+    "forks": 4943,
     "created_at": "2024-08-23T19:03:36Z",
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
     "html_url": "https://github.com/aaif-goose/goose",
     "max_daily_inc": 744,
     "max_inc_date": "2026-06-06",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "ZhuLinsen/daily_stock_analysis",
@@ -342,25 +342,25 @@
   },
   {
     "full_name": "CopilotKit/CopilotKit",
-    "stars": 32665,
-    "forks": 4192,
+    "stars": 33197,
+    "forks": 4238,
     "created_at": "2023-06-19T04:08:31Z",
     "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
     "html_url": "https://github.com/CopilotKit/CopilotKit",
-    "max_daily_inc": 472,
-    "max_inc_date": "2026-06-06",
-    "last_seen": "2026-06-06"
+    "max_daily_inc": 532,
+    "max_inc_date": "2026-06-07",
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "rohitg00/ai-engineering-from-scratch",
-    "stars": 28824,
-    "forks": 4717,
+    "stars": 29383,
+    "forks": 4801,
     "created_at": "2026-03-18T18:38:02Z",
     "description": "Learn it. Build it. Ship it for others.",
     "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "max_daily_inc": 989,
     "max_inc_date": "2026-06-02",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "iOfficeAI/AionUi",
@@ -375,14 +375,14 @@
   },
   {
     "full_name": "hugohe3/ppt-master",
-    "stars": 24633,
-    "forks": 2239,
+    "stars": 24807,
+    "forks": 2251,
     "created_at": "2025-12-10T06:54:33Z",
     "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
     "html_url": "https://github.com/hugohe3/ppt-master",
     "max_daily_inc": 453,
     "max_inc_date": "2026-06-03",
-    "last_seen": "2026-06-06"
+    "last_seen": "2026-06-07"
   },
   {
     "full_name": "jackwener/OpenCLI",
