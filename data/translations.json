@@ -48,5 +48,6 @@
   "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.": "AI编码助理技能（ Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码、SQL架构、R脚本、shell脚本、文档、论文、图像或视频文件夹转换为可查询的知识图。一个图形中的应用代码+数据库架构+基础设施。",
   "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM": "开源、可扩展的AI代理，超越代码建议-使用任何LLM安装、执行、编辑和测试",
   "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol": "Agent和生成式UI的前端堆栈。React、Angular、Mobile、Slack等。AG-UI协议的制定者",
-  "Open Source Computer Vision Library": "开源计算机视觉库"
+  "Open Source Computer Vision Library": "开源计算机视觉库",
+  "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.": "让您的人工智能代理看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu —一个CLI ，无API费用。"
 }
