@@ -1,6 +1,6 @@
 # 🤖 GitHub AI 项目每日新增 Star 排行榜
 
-> 📅 更新时间：**2026-06-11**  
+> 📅 更新时间：**2026-06-13**  
 > 🔍 数据来源：[GitHub API](https://api.github.com)（已认证）  
 > 📊 排序依据：**最近一天新增 Star 数量**，取前 **20** 名  
 > 📦 历史累计追踪：**38** 个项目
@@ -11,26 +11,6 @@
 
 | # | 项目 | ⭐ Stars | 🍴 Forks | 📅 创建日期 | 🔥 今日新增 | 📝 完整功能描述 |
 |---|------|---------|---------|------------|------------|----------------|
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 84,989 | 12,135 | 2024-03-11 | 🔥 **+1,310** | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 97,478 | 6,404 | 2025-08-04 | 🔥 **+1,181** | Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent的跨平台桌面一体机助手。唯一官方网站： ccswitch.io |
-| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 189,935 | 32,898 | 2025-07-22 | 🔥 **+1,142** | 与您一起成长的客服代表 |
-| 4 | [santifer/career-ops](https://github.com/santifer/career-ops) | 52,486 | 10,528 | 2026-04-04 | 🔥 **+860** | 基于Claude Code构建的人工智能求职系统。14种技能模式、Go仪表板、PDF生成、批量处理。 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 212,708 | 32,672 | 2026-01-18 | 🔥 **+835** | 座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。 |
-| 6 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 64,958 | 6,596 | 2026-04-03 | 🔥 **+740** | AI编码助理技能（ Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码、SQL架构、R脚本、shell脚本、文档、论文、图像或视频文件夹转换为可查询的知识图。一个图形中的应用代码+数据库架构+基础设施。 |
-| 7 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 62,921 | 7,025 | 2026-04-28 | 🔥 **+564** | 🎨 本地优先，开源Claude Design替代品。🖥️原生桌面应用程序。⚡259 +技能· ✨ 142 +设计系统🖼️Web ·桌面·移动原型·幻灯片·图像·视频· HyperFrames📦沙盒预览· HTML/PDF/PPTX/MP4导出🤖Claude Code/OpenClaw/Codex/Cursor/OpenCode/Qwen/Copilot/Hermes/Kimi和17 + CLI。 |
-| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 26,098 | 2,345 | 2025-12-10 | 🔥 **+523** | AI可从任何文档生成真实、可编辑的PowerPoint —原生形状和动画、作为音频旁白发声的演讲者笔记，以及遵循您自己的.pptx模板的选项，而不是Hugo He的幻灯片图像· |
-| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 26,040 | 2,152 | 2026-02-24 | 🔥 **+494** | 让您的人工智能代理看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu —一个CLI ，无API费用。 |
-| 10 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 71,088 | 3,993 | 2026-04-04 | 🔥 **+479** | 🪨 为什么在很少令牌欺骗时使用许多令牌— Claude Code技能通过像穴居人一样说话来削减65 ％的令牌 |
-| 11 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 131,140 | 7,749 | 2024-04-15 | 🔥 **+403** | 用于大规模搜索、抓取和与Web交互的API。 🔥 |
-| 12 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 31,034 | 5,068 | 2026-03-18 | 🔥 **+297** | 学习它，构建它。为其他人运送。 |
-| 13 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 41,820 | 39,736 | 2026-01-10 | 🔥 **+292** | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
-| 14 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 48,752 | 5,126 | 2024-08-23 | 🔥 **+263** | 开源、可扩展的AI代理，超越代码建议-使用任何LLM安装、执行、编辑和测试 |
-| 15 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 62,749 | 6,102 | 2024-10-13 | 🔥 **+258** | 🕷️ 一个自适应Web抓取框架，可处理从单个请求到全面爬网的所有内容！ |
-| 16 | [opencv/opencv](https://github.com/opencv/opencv) | 88,862 | 56,635 | 2012-07-19 | 🔥 **+241** | 开源计算机视觉库 |
-| 17 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 65,889 | 10,746 | 2025-06-29 | 🔥 **+222** | Bash是您所需要的一切- nano claude类似代码「的代理线束」，从0到1构建 |
-| 18 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 85,001 | 16,437 | 2024-12-28 | 🔥 **+212** | TradingAgent ：多代理LLM金融交易框架 |
-| 19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 191,967 | 58,445 | 2019-06-22 | 🔥 **+167** | 具有原生AI功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自托管或云、400多个集成相结合。 |
-| 20 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 98,142 | 10,947 | 2024-10-31 | 🔥 **+162** | 🌐 让人工智能代理可以访问网站。轻松实现在线任务自动化。 |
 
 ---
 
@@ -79,4 +59,4 @@
 
 ---
 
-*🤖 自动生成于 2026-06-11 · 数据来源 [GitHub API](https://api.github.com) · 项目地址 [ai-star-tracker](https://github.com/jerizhangWeb3th/ai-star-tracker)*
+*🤖 自动生成于 2026-06-13 · 数据来源 [GitHub API](https://api.github.com) · 项目地址 [ai-star-tracker](https://github.com/jerizhangWeb3th/ai-star-tracker)*
