@@ -139,6 +139,10 @@
     {
       "date": "2026-06-17",
       "stars": 86710
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 86957
     }
   ],
   "unclecode/crawl4ai": [
@@ -365,6 +369,10 @@
     {
       "date": "2026-06-17",
       "stars": 51849
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 51903
     }
   ],
   "CherryHQ/cherry-studio": [
@@ -655,6 +663,10 @@
     {
       "date": "2026-06-17",
       "stars": 82776
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 82991
     }
   ],
   "ComposioHQ/awesome-claude-skills": [
@@ -985,6 +997,10 @@
     {
       "date": "2026-06-17",
       "stars": 184981
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 185000
     }
   ],
   "f/prompts.chat": [
@@ -1055,6 +1071,10 @@
     {
       "date": "2026-06-17",
       "stars": 163819
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 163854
     }
   ],
   "rasbt/LLMs-from-scratch": [
@@ -1125,6 +1145,10 @@
     {
       "date": "2026-06-17",
       "stars": 97268
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 97314
     }
   ],
   "hacksider/Deep-Live-Cam": [
@@ -1195,6 +1219,10 @@
     {
       "date": "2026-06-17",
       "stars": 93891
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 93916
     }
   ],
   "OpenHands/OpenHands": [
@@ -1265,6 +1293,10 @@
     {
       "date": "2026-06-17",
       "stars": 77388
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 77559
     }
   ],
   "FlowiseAI/Flowise": [
@@ -1335,6 +1367,10 @@
     {
       "date": "2026-06-17",
       "stars": 53657
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 53689
     }
   ],
   "microsoft/AI-For-Beginners": [
@@ -1405,6 +1441,10 @@
     {
       "date": "2026-06-17",
       "stars": 48171
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 48186
     }
   ],
   "Kong/kong": [
@@ -1475,6 +1515,10 @@
     {
       "date": "2026-06-17",
       "stars": 43595
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 43604
     }
   ],
   "XingangPan/DragGAN": [
@@ -1544,6 +1588,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 35822
+    },
+    {
+      "date": "2026-06-18",
       "stars": 35822
     }
   ],
@@ -1615,6 +1663,10 @@
     {
       "date": "2026-06-17",
       "stars": 35322
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 35331
     }
   ],
   "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code": [
@@ -1685,6 +1737,10 @@
     {
       "date": "2026-06-17",
       "stars": 34590
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 34619
     }
   ],
   "explosion/spaCy": [
@@ -1755,6 +1811,10 @@
     {
       "date": "2026-06-17",
       "stars": 33662
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 33664
     }
   ],
   "facebookresearch/fairseq": [
@@ -1824,6 +1884,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 32228
+    },
+    {
+      "date": "2026-06-18",
       "stars": 32228
     }
   ],
@@ -1895,6 +1959,10 @@
     {
       "date": "2026-06-17",
       "stars": 31188
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 31190
     }
   ],
   "AMAI-GmbH/AI-Expert-Roadmap": [
@@ -1965,6 +2033,10 @@
     {
       "date": "2026-06-17",
       "stars": 31090
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 31093
     }
   ],
   "feder-cr/Jobs_Applier_AI_Agent_AIHawk": [
@@ -2031,6 +2103,10 @@
     {
       "date": "2026-06-17",
       "stars": 29910
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 29912
     }
   ],
   "ZuzooVn/machine-learning-for-software-engineers": [
@@ -2101,6 +2177,10 @@
     {
       "date": "2026-06-17",
       "stars": 28797
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 28794
     }
   ],
   "simstudioai/sim": [
@@ -2171,6 +2251,10 @@
     {
       "date": "2026-06-17",
       "stars": 28803
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 28808
     }
   ],
   "e2b-dev/awesome-ai-agents": [
@@ -2241,6 +2325,10 @@
     {
       "date": "2026-06-17",
       "stars": 28355
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 28365
     }
   ],
   "microsoft/semantic-kernel": [
@@ -2311,6 +2399,10 @@
     {
       "date": "2026-06-17",
       "stars": 28143
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 28153
     }
   ],
   "invoke-ai/InvokeAI": [
@@ -2381,6 +2473,10 @@
     {
       "date": "2026-06-17",
       "stars": 27446
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 27458
     }
   ],
   "The-Art-of-Hacking/h4cker": [
@@ -2451,6 +2547,10 @@
     {
       "date": "2026-06-17",
       "stars": 27645
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 27690
     }
   ],
   "HandsOnLLM/Hands-On-Large-Language-Models": [
@@ -2521,6 +2621,10 @@
     {
       "date": "2026-06-17",
       "stars": 27064
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 27090
     }
   ],
   "yamadashy/repomix": [
@@ -2591,6 +2695,10 @@
     {
       "date": "2026-06-17",
       "stars": 26325
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 26356
     }
   ],
   "usestrix/strix": [
@@ -2661,6 +2769,10 @@
     {
       "date": "2026-06-17",
       "stars": 26026
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 26039
     }
   ],
   "lucidrains/vit-pytorch": [
@@ -2731,6 +2843,10 @@
     {
       "date": "2026-06-17",
       "stars": 25324
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 25325
     }
   ],
   "vercel/ai": [
@@ -2801,6 +2917,10 @@
     {
       "date": "2026-06-17",
       "stars": 24915
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 24940
     }
   ],
   "harvard-edge/cs249r_book": [
@@ -2871,6 +2991,10 @@
     {
       "date": "2026-06-17",
       "stars": 24922
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 24949
     }
   ],
   "tensorflow/tensorflow": [
@@ -2941,6 +3065,10 @@
     {
       "date": "2026-06-17",
       "stars": 195715
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 195713
     }
   ],
   "huggingface/transformers": [
@@ -3011,6 +3139,10 @@
     {
       "date": "2026-06-17",
       "stars": 161644
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 161675
     }
   ],
   "pytorch/pytorch": [
@@ -3081,6 +3213,10 @@
     {
       "date": "2026-06-17",
       "stars": 100814
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 100841
     }
   ],
   "microsoft/ML-For-Beginners": [
@@ -3151,6 +3287,10 @@
     {
       "date": "2026-06-17",
       "stars": 86937
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 86968
     }
   ],
   "Developer-Y/cs-video-courses": [
@@ -3221,6 +3361,10 @@
     {
       "date": "2026-06-17",
       "stars": 81824
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 81839
     }
   ],
   "mlabonne/llm-course": [
@@ -3291,6 +3435,10 @@
     {
       "date": "2026-06-17",
       "stars": 80186
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 80211
     }
   ],
   "netdata/netdata": [
@@ -3361,6 +3509,10 @@
     {
       "date": "2026-06-17",
       "stars": 79176
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 79246
     }
   ],
   "d2l-ai/d2l-zh": [
@@ -3431,6 +3583,10 @@
     {
       "date": "2026-06-17",
       "stars": 78379
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 78405
     }
   ],
   "tesseract-ocr/tesseract": [
@@ -3501,6 +3657,10 @@
     {
       "date": "2026-06-17",
       "stars": 74764
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 74785
     }
   ],
   "binhnguyennus/awesome-scalability": [
@@ -3571,6 +3731,10 @@
     {
       "date": "2026-06-17",
       "stars": 71789
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 71820
     }
   ],
   "OpenBB-finance/OpenBB": [
@@ -3641,6 +3805,10 @@
     {
       "date": "2026-06-17",
       "stars": 69282
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 69336
     }
   ],
   "labmlai/annotated_deep_learning_paper_implementations": [
@@ -3711,6 +3879,10 @@
     {
       "date": "2026-06-17",
       "stars": 66942
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 66948
     }
   ],
   "scikit-learn/scikit-learn": [
@@ -3781,6 +3953,10 @@
     {
       "date": "2026-06-17",
       "stars": 66352
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 66358
     }
   ],
   "keras-team/keras": [
@@ -3850,6 +4026,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 64094
+    },
+    {
+      "date": "2026-06-18",
       "stars": 64094
     }
   ],
@@ -3921,6 +4101,10 @@
     {
       "date": "2026-06-17",
       "stars": 59339
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 59329
     }
   ],
   "ultralytics/ultralytics": [
@@ -3991,6 +4175,10 @@
     {
       "date": "2026-06-17",
       "stars": 58475
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 58516
     }
   ],
   "ultralytics/yolov5": [
@@ -4061,6 +4249,10 @@
     {
       "date": "2026-06-17",
       "stars": 57527
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 57531
     }
   ],
   "ageitgey/face_recognition": [
@@ -4131,6 +4323,10 @@
     {
       "date": "2026-06-17",
       "stars": 56507
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 56510
     }
   ],
   "affaan-m/ECC": [
@@ -4201,6 +4397,10 @@
     {
       "date": "2026-06-17",
       "stars": 216719
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 217281
     }
   ],
   "ollama/ollama": [
@@ -4271,6 +4471,10 @@
     {
       "date": "2026-06-17",
       "stars": 174334
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 174400
     }
   ],
   "NousResearch/hermes-agent": [
@@ -4341,6 +4545,10 @@
     {
       "date": "2026-06-17",
       "stars": 195336
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 196175
     }
   ],
   "langgenius/dify": [
@@ -4411,6 +4619,10 @@
     {
       "date": "2026-06-17",
       "stars": 145501
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 145629
     }
   ],
   "open-webui/open-webui": [
@@ -4481,6 +4693,10 @@
     {
       "date": "2026-06-17",
       "stars": 141871
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 142038
     }
   ],
   "langchain-ai/langchain": [
@@ -4551,6 +4767,10 @@
     {
       "date": "2026-06-17",
       "stars": 139494
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 139576
     }
   ],
   "firecrawl/firecrawl": [
@@ -4621,6 +4841,10 @@
     {
       "date": "2026-06-17",
       "stars": 133634
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 134126
     }
   ],
   "browser-use/browser-use": [
@@ -4691,6 +4915,10 @@
     {
       "date": "2026-06-17",
       "stars": 99160
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 99320
     }
   ],
   "vllm-project/vllm": [
@@ -4761,6 +4989,10 @@
     {
       "date": "2026-06-17",
       "stars": 83087
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 83193
     }
   ],
   "hiyouga/LlamaFactory": [
@@ -4831,6 +5063,10 @@
     {
       "date": "2026-06-17",
       "stars": 72218
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 72260
     }
   ],
   "bytedance/deer-flow": [
@@ -4901,6 +5137,10 @@
     {
       "date": "2026-06-17",
       "stars": 71331
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 71420
     }
   ],
   "FoundationAgents/MetaGPT": [
@@ -4971,6 +5211,10 @@
     {
       "date": "2026-06-17",
       "stars": 68848
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 68866
     }
   ],
   "JuliusBrussee/caveman": [
@@ -5041,6 +5285,10 @@
     {
       "date": "2026-06-17",
       "stars": 73587
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 74080
     }
   ],
   "langflow-ai/langflow": [
@@ -5111,6 +5359,10 @@
     {
       "date": "2026-06-17",
       "stars": 149762
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 149800
     }
   ],
   "binary-husky/gpt_academic": [
@@ -5181,6 +5433,10 @@
     {
       "date": "2026-06-17",
       "stars": 70892
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 70896
     }
   ],
   "ray-project/ray": [
@@ -5247,6 +5503,10 @@
     {
       "date": "2026-06-17",
       "stars": 42904
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 42916
     }
   ],
   "google/langextract": [
@@ -5313,6 +5573,10 @@
     {
       "date": "2026-06-17",
       "stars": 36903
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 36909
     }
   ],
   "HKUDS/LightRAG": [
@@ -5379,6 +5643,10 @@
     {
       "date": "2026-06-17",
       "stars": 36666
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 36711
     }
   ],
   "stanford-oval/storm": [
@@ -5445,6 +5713,10 @@
     {
       "date": "2026-06-17",
       "stars": 28378
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 28429
     }
   ],
   "langfuse/langfuse": [
@@ -5511,6 +5783,10 @@
     {
       "date": "2026-06-17",
       "stars": 29216
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 29284
     }
   ],
   "aishwaryanr/awesome-generative-ai-guide": [
@@ -5581,6 +5857,10 @@
     {
       "date": "2026-06-17",
       "stars": 27180
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 27201
     }
   ],
   "agentscope-ai/agentscope": [
@@ -5647,6 +5927,10 @@
     {
       "date": "2026-06-17",
       "stars": 26908
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 26954
     }
   ],
   "deepset-ai/haystack": [
@@ -5717,6 +6001,10 @@
     {
       "date": "2026-06-17",
       "stars": 25585
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 25593
     }
   ],
   "microsoft/generative-ai-for-beginners": [
