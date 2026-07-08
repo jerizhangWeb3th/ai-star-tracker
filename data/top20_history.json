@@ -1,25 +1,25 @@
 [
   {
     "full_name": "affaan-m/ECC",
-    "stars": 226673,
-    "forks": 34662,
+    "stars": 227047,
+    "forks": 34714,
     "created_at": "2026-01-18T00:51:51Z",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "html_url": "https://github.com/affaan-m/ECC",
     "max_daily_inc": 3439,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "NousResearch/hermes-agent",
-    "stars": 210352,
-    "forks": 38530,
+    "stars": 210969,
+    "forks": 38732,
     "created_at": "2025-07-22T22:22:28Z",
     "description": "The agent that grows with you",
     "html_url": "https://github.com/NousResearch/hermes-agent",
     "max_daily_inc": 4500,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "tensorflow/tensorflow",
@@ -77,6 +77,17 @@
     "last_seen": "2026-07-04"
   },
   {
+    "full_name": "firecrawl/firecrawl",
+    "stars": 147226,
+    "forks": 8456,
+    "created_at": "2024-04-15T21:02:29Z",
+    "description": "🔥 Search, scrape, and clean the web for AI agents.",
+    "html_url": "https://github.com/firecrawl/firecrawl",
+    "max_daily_inc": 2060,
+    "max_inc_date": "2026-06-16",
+    "last_seen": "2026-07-08"
+  },
+  {
     "full_name": "langgenius/dify",
     "stars": 146330,
     "forks": 23013,
@@ -86,17 +97,6 @@
     "max_daily_inc": 178,
     "max_inc_date": "2026-06-04",
     "last_seen": "2026-06-24"
-  },
-  {
-    "full_name": "firecrawl/firecrawl",
-    "stars": 146220,
-    "forks": 8411,
-    "created_at": "2024-04-15T21:02:29Z",
-    "description": "🔥 Search, scrape, and clean the web for AI agents.",
-    "html_url": "https://github.com/firecrawl/firecrawl",
-    "max_daily_inc": 2060,
-    "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-07"
   },
   {
     "full_name": "open-webui/open-webui",
@@ -133,25 +133,25 @@
   },
   {
     "full_name": "farion1231/cc-switch",
-    "stars": 113922,
-    "forks": 7596,
+    "stars": 114360,
+    "forks": 7635,
     "created_at": "2025-08-04T14:16:16Z",
     "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
     "html_url": "https://github.com/farion1231/cc-switch",
     "max_daily_inc": 4160,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "browser-use/browser-use",
-    "stars": 103138,
-    "forks": 11422,
+    "stars": 103341,
+    "forks": 11437,
     "created_at": "2024-10-31T16:00:56Z",
     "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
     "html_url": "https://github.com/browser-use/browser-use",
     "max_daily_inc": 840,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "pytorch/pytorch",
@@ -188,14 +188,14 @@
   },
   {
     "full_name": "TauricResearch/TradingAgents",
-    "stars": 91369,
-    "forks": 17661,
+    "stars": 91637,
+    "forks": 17706,
     "created_at": "2024-12-28T03:31:08Z",
     "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "html_url": "https://github.com/TauricResearch/TradingAgents",
     "max_daily_inc": 1441,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "opencv/opencv",
@@ -209,6 +209,17 @@
     "last_seen": "2026-06-11"
   },
   {
+    "full_name": "JuliusBrussee/caveman",
+    "stars": 86260,
+    "forks": 4809,
+    "created_at": "2026-04-04T10:03:00Z",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "html_url": "https://github.com/JuliusBrussee/caveman",
+    "max_daily_inc": 2057,
+    "max_inc_date": "2026-07-04",
+    "last_seen": "2026-07-08"
+  },
+  {
     "full_name": "thedotmack/claude-mem",
     "stars": 85984,
     "forks": 7443,
@@ -218,17 +229,6 @@
     "max_daily_inc": 906,
     "max_inc_date": "2026-06-16",
     "last_seen": "2026-07-06"
-  },
-  {
-    "full_name": "JuliusBrussee/caveman",
-    "stars": 85694,
-    "forks": 4772,
-    "created_at": "2026-04-04T10:03:00Z",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "html_url": "https://github.com/JuliusBrussee/caveman",
-    "max_daily_inc": 2057,
-    "max_inc_date": "2026-07-04",
-    "last_seen": "2026-07-07"
   },
   {
     "full_name": "vllm-project/vllm",
@@ -264,6 +264,28 @@
     "last_seen": "2026-06-24"
   },
   {
+    "full_name": "OpenHands/OpenHands",
+    "stars": 79848,
+    "forks": 10181,
+    "created_at": "2024-03-13T03:33:31Z",
+    "description": "🙌 OpenHands: AI-Driven Development",
+    "html_url": "https://github.com/OpenHands/OpenHands",
+    "max_daily_inc": 817,
+    "max_inc_date": "2026-06-16",
+    "last_seen": "2026-07-08"
+  },
+  {
+    "full_name": "Graphify-Labs/graphify",
+    "stars": 79553,
+    "forks": 7840,
+    "created_at": "2026-04-03T15:49:07Z",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "html_url": "https://github.com/Graphify-Labs/graphify",
+    "max_daily_inc": 857,
+    "max_inc_date": "2026-07-08",
+    "last_seen": "2026-07-08"
+  },
+  {
     "full_name": "netdata/netdata",
     "stars": 79246,
     "forks": 6474,
@@ -286,28 +308,6 @@
     "last_seen": "2026-06-24"
   },
   {
-    "full_name": "Graphify-Labs/graphify",
-    "stars": 78696,
-    "forks": 7769,
-    "created_at": "2026-04-03T15:49:07Z",
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-    "html_url": "https://github.com/Graphify-Labs/graphify",
-    "max_daily_inc": 539,
-    "max_inc_date": "2026-07-07",
-    "last_seen": "2026-07-07"
-  },
-  {
-    "full_name": "OpenHands/OpenHands",
-    "stars": 78148,
-    "forks": 9937,
-    "created_at": "2024-03-13T03:33:31Z",
-    "description": "🙌 OpenHands: AI-Driven Development",
-    "html_url": "https://github.com/OpenHands/OpenHands",
-    "max_daily_inc": 817,
-    "max_inc_date": "2026-06-16",
-    "last_seen": "2026-06-24"
-  },
-  {
     "full_name": "safishamsi/graphify",
     "stars": 77103,
     "forks": 7635,
@@ -319,6 +319,28 @@
     "last_seen": "2026-07-04"
   },
   {
+    "full_name": "DietrichGebert/ponytail",
+    "stars": 76904,
+    "forks": 4104,
+    "created_at": "2026-06-12T00:52:37Z",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "html_url": "https://github.com/DietrichGebert/ponytail",
+    "max_daily_inc": 1310,
+    "max_inc_date": "2026-07-04",
+    "last_seen": "2026-07-08"
+  },
+  {
+    "full_name": "nexu-io/open-design",
+    "stars": 75977,
+    "forks": 8667,
+    "created_at": "2026-04-28T04:25:20Z",
+    "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 100+ Skills · ✨ 100+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
+    "html_url": "https://github.com/nexu-io/open-design",
+    "max_daily_inc": 2532,
+    "max_inc_date": "2026-06-16",
+    "last_seen": "2026-07-08"
+  },
+  {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
     "stars": 75920,
     "forks": 8318,
@@ -328,28 +350,6 @@
     "max_daily_inc": 49,
     "max_inc_date": "2026-06-24",
     "last_seen": "2026-06-24"
-  },
-  {
-    "full_name": "DietrichGebert/ponytail",
-    "stars": 75916,
-    "forks": 4027,
-    "created_at": "2026-06-12T00:52:37Z",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "html_url": "https://github.com/DietrichGebert/ponytail",
-    "max_daily_inc": 1310,
-    "max_inc_date": "2026-07-04",
-    "last_seen": "2026-07-07"
-  },
-  {
-    "full_name": "nexu-io/open-design",
-    "stars": 75587,
-    "forks": 8621,
-    "created_at": "2026-04-28T04:25:20Z",
-    "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 100+ Skills · ✨ 100+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-    "html_url": "https://github.com/nexu-io/open-design",
-    "max_daily_inc": 2532,
-    "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-07"
   },
   {
     "full_name": "bytedance/deer-flow",
@@ -452,14 +452,14 @@
   },
   {
     "full_name": "datawhalechina/hello-agents",
-    "stars": 64376,
-    "forks": 7982,
+    "stars": 64671,
+    "forks": 8023,
     "created_at": "2025-09-07T09:50:24Z",
     "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
     "html_url": "https://github.com/datawhalechina/hello-agents",
     "max_daily_inc": 295,
     "max_inc_date": "2026-07-07",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "code-yeongyu/oh-my-openagent",
@@ -507,14 +507,14 @@
   },
   {
     "full_name": "Leonxlnx/taste-skill",
-    "stars": 58892,
-    "forks": 4012,
+    "stars": 60072,
+    "forks": 4083,
     "created_at": "2026-02-19T21:44:05Z",
     "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
     "html_url": "https://github.com/Leonxlnx/taste-skill",
     "max_daily_inc": 1452,
     "max_inc_date": "2026-07-07",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "ultralytics/ultralytics",
@@ -551,14 +551,14 @@
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stars": 57152,
-    "forks": 4204,
+    "stars": 57532,
+    "forks": 4239,
     "created_at": "2026-01-07T19:58:51Z",
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
     "html_url": "https://github.com/headroomlabs-ai/headroom",
     "max_daily_inc": 1299,
     "max_inc_date": "2026-06-25",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "ruvnet/ruflo",
@@ -572,6 +572,17 @@
     "last_seen": "2026-05-29"
   },
   {
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "stars": 55540,
+    "forks": 47947,
+    "created_at": "2026-01-10T06:43:20Z",
+    "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+    "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "max_daily_inc": 1393,
+    "max_inc_date": "2026-06-23",
+    "last_seen": "2026-07-08"
+  },
+  {
     "full_name": "MemPalace/mempalace",
     "stars": 55192,
     "forks": 7176,
@@ -581,17 +592,6 @@
     "max_daily_inc": 401,
     "max_inc_date": "2026-06-07",
     "last_seen": "2026-06-10"
-  },
-  {
-    "full_name": "ZhuLinsen/daily_stock_analysis",
-    "stars": 55119,
-    "forks": 47647,
-    "created_at": "2026-01-10T06:43:20Z",
-    "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-    "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "max_daily_inc": 1393,
-    "max_inc_date": "2026-06-23",
-    "last_seen": "2026-07-07"
   },
   {
     "full_name": "FlowiseAI/Flowise",
@@ -605,26 +605,37 @@
     "last_seen": "2026-06-24"
   },
   {
+    "full_name": "asgeirtj/system_prompts_leaks",
+    "stars": 52959,
+    "forks": 8634,
+    "created_at": "2025-05-03T02:43:56Z",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "max_daily_inc": 1557,
+    "max_inc_date": "2026-07-07",
+    "last_seen": "2026-07-08"
+  },
+  {
     "full_name": "jingyaogong/minimind",
-    "stars": 52127,
-    "forks": 6707,
+    "stars": 52876,
+    "forks": 6824,
     "created_at": "2024-07-27T04:34:12Z",
     "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
     "html_url": "https://github.com/jingyaogong/minimind",
-    "max_daily_inc": 70,
-    "max_inc_date": "2026-06-17",
-    "last_seen": "2026-06-24"
+    "max_daily_inc": 220,
+    "max_inc_date": "2026-07-08",
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "Panniantong/Agent-Reach",
-    "stars": 52020,
-    "forks": 4181,
+    "stars": 52679,
+    "forks": 4238,
     "created_at": "2026-02-24T02:10:24Z",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
     "html_url": "https://github.com/Panniantong/Agent-Reach",
     "max_daily_inc": 4265,
     "max_inc_date": "2026-06-19",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
@@ -636,17 +647,6 @@
     "max_daily_inc": 1071,
     "max_inc_date": "2026-07-02",
     "last_seen": "2026-07-04"
-  },
-  {
-    "full_name": "asgeirtj/system_prompts_leaks",
-    "stars": 51476,
-    "forks": 8389,
-    "created_at": "2025-05-03T02:43:56Z",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-    "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "max_daily_inc": 1557,
-    "max_inc_date": "2026-07-07",
-    "last_seen": "2026-07-07"
   },
   {
     "full_name": "aaif-goose/goose",
@@ -661,25 +661,25 @@
   },
   {
     "full_name": "usestrix/strix",
-    "stars": 37971,
-    "forks": 3859,
+    "stars": 38552,
+    "forks": 3912,
     "created_at": "2025-08-05T21:28:30Z",
     "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
     "html_url": "https://github.com/usestrix/strix",
     "max_daily_inc": 8476,
     "max_inc_date": "2026-07-04",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "hugohe3/ppt-master",
-    "stars": 37144,
-    "forks": 3109,
+    "stars": 37476,
+    "forks": 3125,
     "created_at": "2025-12-10T06:54:33Z",
     "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
     "html_url": "https://github.com/hugohe3/ppt-master",
     "max_daily_inc": 1748,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-07"
+    "last_seen": "2026-07-08"
   },
   {
     "full_name": "HKUDS/LightRAG",
