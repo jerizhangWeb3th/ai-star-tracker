@@ -1,6 +1,6 @@
 # 🤖 GitHub AI 项目每日新增 Star 排行榜
 
-> 📅 更新时间：**2026-07-17**  
+> 📅 更新时间：**2026-07-18**  
 > 🔍 数据来源：[GitHub API](https://api.github.com)（已认证）  
 > 📊 排序依据：**最近一天新增 Star 数量**，取前 **20** 名  
 > 📦 历史累计追踪：**74** 个项目
@@ -11,26 +11,6 @@
 
 | # | 项目 | ⭐ Stars | 🍴 Forks | 📅 创建日期 | 🔥 今日新增 | 📝 完整功能描述 |
 |---|------|---------|---------|------------|------------|----------------|
-| 1 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 89,011 | 8,697 | 2026-04-03 | 🔥 **+1,292** | AI编码助理技能（ Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码、SQL架构、R脚本、shell脚本、文档、论文、图像或视频文件夹转换为可查询的知识图。一个图形中的应用代码+数据库架构+基础设施。 |
-| 2 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 122,849 | 18,118 | 2024-04-29 | 🔥 **+973** | 100多个AI Agent和RAG应用程序，您可以实际运行—克隆、自定义、发货。 |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 84,658 | 4,607 | 2026-06-12 | 🔥 **+639** | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 215,976 | 40,355 | 2025-07-22 | 🔥 **+523** | 与您一起成长的客服代表 |
-| 5 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 152,008 | 8,679 | 2024-04-15 | 🔥 **+475** | 用于大规模搜索、抓取和与Web交互的API。 🔥 |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 57,168 | 4,580 | 2026-02-24 | 🔥 **+378** | 让您的人工智能代理看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu —一个CLI ，无API费用。 |
-| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 64,241 | 4,418 | 2026-02-19 | 🔥 **+363** | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
-| 8 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 117,936 | 7,900 | 2025-08-04 | 🔥 **+360** | Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent的跨平台桌面一体机助手。唯一官方网站： ccswitch.io |
-| 9 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 78,961 | 9,088 | 2026-04-28 | 🔥 **+355** | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM |
-| 10 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 39,211 | 4,644 | 2026-03-29 | 🔥 **+274** | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
-| 11 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 80,141 | 15,612 | 2023-05-21 | 🔥 **+258** | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. |
-| 12 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 66,690 | 8,277 | 2025-09-07 | 🔥 **+258** | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 13 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 58,358 | 9,547 | 2025-05-03 | 🔥 **+255** | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - |
-| 14 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 39,476 | 3,266 | 2025-12-10 | 🔥 **+252** | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support |
-| 15 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 230,342 | 35,156 | 2026-01-18 | 🔥 **+230** | 座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。 |
-| 16 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 90,073 | 5,089 | 2026-04-04 | 🔥 **+209** | 🪨 为什么在很少令牌欺骗时使用许多令牌— Claude Code技能通过像穴居人一样说话来削减65 ％的令牌 |
-| 17 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 105,099 | 11,567 | 2024-10-31 | 🔥 **+185** | 🌐 让人工智能代理可以访问网站。轻松实现在线任务自动化。 |
-| 18 | [usestrix/strix](https://github.com/usestrix/strix) | 42,027 | 4,333 | 2025-08-05 | 🔥 **+174** | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
-| 19 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 59,529 | 4,419 | 2026-01-07 | 🔥 **+169** | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. |
-| 20 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 57,531 | 49,489 | 2026-01-10 | 🔥 **+158** | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f |
 
 ---
 
@@ -115,4 +95,4 @@
 
 ---
 
-*🤖 自动生成于 2026-07-17 · 数据来源 [GitHub API](https://api.github.com) · 项目地址 [ai-star-tracker](https://github.com/jerizhangWeb3th/ai-star-tracker)*
+*🤖 自动生成于 2026-07-18 · 数据来源 [GitHub API](https://api.github.com) · 项目地址 [ai-star-tracker](https://github.com/jerizhangWeb3th/ai-star-tracker)*
