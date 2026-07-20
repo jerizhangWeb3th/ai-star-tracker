@@ -1,25 +1,25 @@
 [
   {
     "full_name": "affaan-m/ECC",
-    "stars": 230342,
-    "forks": 35156,
+    "stars": 231225,
+    "forks": 35280,
     "created_at": "2026-01-18T00:51:51Z",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "html_url": "https://github.com/affaan-m/ECC",
     "max_daily_inc": 3439,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-17"
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "NousResearch/hermes-agent",
-    "stars": 215976,
-    "forks": 40355,
+    "stars": 217241,
+    "forks": 40905,
     "created_at": "2025-07-22T22:22:28Z",
     "description": "The agent that grows with you",
     "html_url": "https://github.com/NousResearch/hermes-agent",
     "max_daily_inc": 4500,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-17"
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "tensorflow/tensorflow",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "firecrawl/firecrawl",
-    "stars": 152008,
-    "forks": 8679,
+    "stars": 153151,
+    "forks": 8749,
     "created_at": "2024-04-15T21:02:29Z",
     "description": "🔥 Search, scrape, and clean the web for AI agents.",
     "html_url": "https://github.com/firecrawl/firecrawl",
     "max_daily_inc": 2060,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-17"
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "langflow-ai/langflow",
@@ -144,14 +144,14 @@
   },
   {
     "full_name": "browser-use/browser-use",
-    "stars": 105099,
-    "forks": 11567,
+    "stars": 105571,
+    "forks": 11623,
     "created_at": "2024-10-31T16:00:56Z",
     "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
     "html_url": "https://github.com/browser-use/browser-use",
     "max_daily_inc": 840,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-17"
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "pytorch/pytorch",
@@ -166,14 +166,14 @@
   },
   {
     "full_name": "harry0703/MoneyPrinterTurbo",
-    "stars": 97658,
-    "forks": 14444,
+    "stars": 98151,
+    "forks": 14495,
     "created_at": "2024-03-11T02:57:34Z",
     "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
     "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "max_daily_inc": 3394,
     "max_inc_date": "2026-05-30",
-    "last_seen": "2026-07-16"
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
@@ -188,25 +188,25 @@
   },
   {
     "full_name": "TauricResearch/TradingAgents",
-    "stars": 93163,
-    "forks": 17990,
+    "stars": 93687,
+    "forks": 18111,
     "created_at": "2024-12-28T03:31:08Z",
     "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "html_url": "https://github.com/TauricResearch/TradingAgents",
     "max_daily_inc": 1441,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-16"
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stars": 90073,
-    "forks": 5089,
+    "stars": 90834,
+    "forks": 5147,
     "created_at": "2026-04-04T10:03:00Z",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "html_url": "https://github.com/JuliusBrussee/caveman",
     "max_daily_inc": 2057,
     "max_inc_date": "2026-07-04",
-    "last_seen": "2026-07-17"
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "Graphify-Labs/graphify",
@@ -231,6 +231,17 @@
     "last_seen": "2026-06-11"
   },
   {
+    "full_name": "DietrichGebert/ponytail",
+    "stars": 86090,
+    "forks": 4697,
+    "created_at": "2026-06-12T00:52:37Z",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "html_url": "https://github.com/DietrichGebert/ponytail",
+    "max_daily_inc": 1432,
+    "max_inc_date": "2026-07-20",
+    "last_seen": "2026-07-20"
+  },
+  {
     "full_name": "thedotmack/claude-mem",
     "stars": 85984,
     "forks": 7443,
@@ -240,17 +251,6 @@
     "max_daily_inc": 906,
     "max_inc_date": "2026-06-16",
     "last_seen": "2026-07-06"
-  },
-  {
-    "full_name": "DietrichGebert/ponytail",
-    "stars": 84658,
-    "forks": 4607,
-    "created_at": "2026-06-12T00:52:37Z",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "html_url": "https://github.com/DietrichGebert/ponytail",
-    "max_daily_inc": 1310,
-    "max_inc_date": "2026-07-04",
-    "last_seen": "2026-07-17"
   },
   {
     "full_name": "vllm-project/vllm",
@@ -286,6 +286,17 @@
     "last_seen": "2026-06-24"
   },
   {
+    "full_name": "lobehub/lobehub",
+    "stars": 80539,
+    "forks": 15645,
+    "created_at": "2023-05-21T07:19:12Z",
+    "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+    "html_url": "https://github.com/lobehub/lobehub",
+    "max_daily_inc": 398,
+    "max_inc_date": "2026-07-20",
+    "last_seen": "2026-07-20"
+  },
+  {
     "full_name": "OpenHands/OpenHands",
     "stars": 80245,
     "forks": 10236,
@@ -297,15 +308,15 @@
     "last_seen": "2026-07-10"
   },
   {
-    "full_name": "lobehub/lobehub",
-    "stars": 80141,
-    "forks": 15612,
-    "created_at": "2023-05-21T07:19:12Z",
-    "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-    "html_url": "https://github.com/lobehub/lobehub",
-    "max_daily_inc": 258,
-    "max_inc_date": "2026-07-17",
-    "last_seen": "2026-07-17"
+    "full_name": "nexu-io/open-design",
+    "stars": 79722,
+    "forks": 9205,
+    "created_at": "2026-04-28T04:25:20Z",
+    "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 100+ Skills · ✨ 100+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
+    "html_url": "https://github.com/nexu-io/open-design",
+    "max_daily_inc": 2532,
+    "max_inc_date": "2026-06-16",
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "netdata/netdata",
@@ -317,17 +328,6 @@
     "max_daily_inc": 70,
     "max_inc_date": "2026-06-18",
     "last_seen": "2026-06-18"
-  },
-  {
-    "full_name": "nexu-io/open-design",
-    "stars": 78961,
-    "forks": 9088,
-    "created_at": "2026-04-28T04:25:20Z",
-    "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 100+ Skills · ✨ 100+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-    "html_url": "https://github.com/nexu-io/open-design",
-    "max_daily_inc": 2532,
-    "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-17"
   },
   {
     "full_name": "safishamsi/graphify",
@@ -463,14 +463,14 @@
   },
   {
     "full_name": "Leonxlnx/taste-skill",
-    "stars": 64241,
-    "forks": 4418,
+    "stars": 65234,
+    "forks": 4510,
     "created_at": "2026-02-19T21:44:05Z",
     "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
     "html_url": "https://github.com/Leonxlnx/taste-skill",
     "max_daily_inc": 1452,
     "max_inc_date": "2026-07-07",
-    "last_seen": "2026-07-17"
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "code-yeongyu/oh-my-openagent",
@@ -517,6 +517,17 @@
     "last_seen": "2026-06-24"
   },
   {
+    "full_name": "headroomlabs-ai/headroom",
+    "stars": 60357,
+    "forks": 4519,
+    "created_at": "2026-01-07T19:58:51Z",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "html_url": "https://github.com/headroomlabs-ai/headroom",
+    "max_daily_inc": 1299,
+    "max_inc_date": "2026-06-25",
+    "last_seen": "2026-07-20"
+  },
+  {
     "full_name": "santifer/career-ops",
     "stars": 60115,
     "forks": 11917,
@@ -528,15 +539,15 @@
     "last_seen": "2026-07-15"
   },
   {
-    "full_name": "headroomlabs-ai/headroom",
-    "stars": 59529,
-    "forks": 4419,
-    "created_at": "2026-01-07T19:58:51Z",
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-    "html_url": "https://github.com/headroomlabs-ai/headroom",
-    "max_daily_inc": 1299,
-    "max_inc_date": "2026-06-25",
-    "last_seen": "2026-07-17"
+    "full_name": "asgeirtj/system_prompts_leaks",
+    "stars": 59069,
+    "forks": 9638,
+    "created_at": "2025-05-03T02:43:56Z",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "max_daily_inc": 1557,
+    "max_inc_date": "2026-07-07",
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "ultralytics/ultralytics",
@@ -550,15 +561,15 @@
     "last_seen": "2026-06-24"
   },
   {
-    "full_name": "asgeirtj/system_prompts_leaks",
-    "stars": 58358,
-    "forks": 9547,
-    "created_at": "2025-05-03T02:43:56Z",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-    "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "max_daily_inc": 1557,
-    "max_inc_date": "2026-07-07",
-    "last_seen": "2026-07-17"
+    "full_name": "Panniantong/Agent-Reach",
+    "stars": 58134,
+    "forks": 4667,
+    "created_at": "2026-02-24T02:10:24Z",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "html_url": "https://github.com/Panniantong/Agent-Reach",
+    "max_daily_inc": 4265,
+    "max_inc_date": "2026-06-19",
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "upstash/context7",
@@ -573,25 +584,14 @@
   },
   {
     "full_name": "ZhuLinsen/daily_stock_analysis",
-    "stars": 57531,
-    "forks": 49489,
+    "stars": 57903,
+    "forks": 49757,
     "created_at": "2026-01-10T06:43:20Z",
     "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
     "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
     "max_daily_inc": 1393,
     "max_inc_date": "2026-06-23",
-    "last_seen": "2026-07-17"
-  },
-  {
-    "full_name": "Panniantong/Agent-Reach",
-    "stars": 57168,
-    "forks": 4580,
-    "created_at": "2026-02-24T02:10:24Z",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "html_url": "https://github.com/Panniantong/Agent-Reach",
-    "max_daily_inc": 4265,
-    "max_inc_date": "2026-06-19",
-    "last_seen": "2026-07-17"
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "ruvnet/ruflo",
@@ -661,36 +661,58 @@
   },
   {
     "full_name": "usestrix/strix",
-    "stars": 42027,
-    "forks": 4333,
+    "stars": 42648,
+    "forks": 4406,
     "created_at": "2025-08-05T21:28:30Z",
     "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
     "html_url": "https://github.com/usestrix/strix",
     "max_daily_inc": 8476,
     "max_inc_date": "2026-07-04",
-    "last_seen": "2026-07-17"
+    "last_seen": "2026-07-20"
+  },
+  {
+    "full_name": "calesthio/OpenMontage",
+    "stars": 40116,
+    "forks": 4751,
+    "created_at": "2026-03-29T15:23:22Z",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "html_url": "https://github.com/calesthio/OpenMontage",
+    "max_daily_inc": 905,
+    "max_inc_date": "2026-07-20",
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "hugohe3/ppt-master",
-    "stars": 39476,
-    "forks": 3266,
+    "stars": 39948,
+    "forks": 3312,
     "created_at": "2025-12-10T06:54:33Z",
     "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
     "html_url": "https://github.com/hugohe3/ppt-master",
     "max_daily_inc": 1748,
     "max_inc_date": "2026-06-16",
-    "last_seen": "2026-07-17"
+    "last_seen": "2026-07-20"
   },
   {
-    "full_name": "calesthio/OpenMontage",
-    "stars": 39211,
-    "forks": 4644,
-    "created_at": "2026-03-29T15:23:22Z",
-    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-    "html_url": "https://github.com/calesthio/OpenMontage",
-    "max_daily_inc": 485,
-    "max_inc_date": "2026-07-15",
-    "last_seen": "2026-07-17"
+    "full_name": "rohitg00/ai-engineering-from-scratch",
+    "stars": 39639,
+    "forks": 6625,
+    "created_at": "2026-03-18T18:38:02Z",
+    "description": "Learn it. Build it. Ship it for others.",
+    "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "max_daily_inc": 2026,
+    "max_inc_date": "2026-06-16",
+    "last_seen": "2026-07-20"
+  },
+  {
+    "full_name": "google/langextract",
+    "stars": 37548,
+    "forks": 2593,
+    "created_at": "2025-07-08T20:46:06Z",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "html_url": "https://github.com/google/langextract",
+    "max_daily_inc": 392,
+    "max_inc_date": "2026-07-20",
+    "last_seen": "2026-07-20"
   },
   {
     "full_name": "HKUDS/LightRAG",
@@ -702,17 +724,6 @@
     "max_daily_inc": 56,
     "max_inc_date": "2026-06-17",
     "last_seen": "2026-06-17"
-  },
-  {
-    "full_name": "rohitg00/ai-engineering-from-scratch",
-    "stars": 36358,
-    "forks": 5965,
-    "created_at": "2026-03-18T18:38:02Z",
-    "description": "Learn it. Build it. Ship it for others.",
-    "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "max_daily_inc": 2026,
-    "max_inc_date": "2026-06-16",
-    "last_seen": "2026-06-26"
   },
   {
     "full_name": "langchain-ai/langgraph",
