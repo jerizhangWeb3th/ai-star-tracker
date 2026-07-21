@@ -1,6 +1,6 @@
 # 🤖 GitHub AI 项目每日新增 Star 排行榜
 
-> 📅 更新时间：**2026-07-20**  
+> 📅 更新时间：**2026-07-21**  
 > 🔍 数据来源：[GitHub API](https://api.github.com)（已认证）  
 > 📊 排序依据：**最近一天新增 Star 数量**，取前 **20** 名  
 > 📦 历史累计追踪：**75** 个项目
@@ -11,26 +11,26 @@
 
 | # | 项目 | ⭐ Stars | 🍴 Forks | 📅 创建日期 | 🔥 今日新增 | 📝 完整功能描述 |
 |---|------|---------|---------|------------|------------|----------------|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 86,090 | 4,697 | 2026-06-12 | 🔥 **+1,432** | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 217,241 | 40,905 | 2025-07-22 | 🔥 **+1,265** | 与您一起成长的客服代表 |
-| 3 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 153,151 | 8,749 | 2024-04-15 | 🔥 **+1,143** | 用于大规模搜索、抓取和与Web交互的API。 🔥 |
-| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 39,639 | 6,625 | 2026-03-18 | 🔥 **+1,078** | 学习它，构建它。为其他人运送。 |
-| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 65,234 | 4,510 | 2026-02-19 | 🔥 **+993** | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 58,134 | 4,667 | 2026-02-24 | 🔥 **+966** | 让您的人工智能代理看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu —一个CLI ，无API费用。 |
-| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 40,116 | 4,751 | 2026-03-29 | 🔥 **+905** | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
-| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 231,225 | 35,280 | 2026-01-18 | 🔥 **+883** | 座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。 |
-| 9 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 60,357 | 4,519 | 2026-01-07 | 🔥 **+828** | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. |
-| 10 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 90,834 | 5,147 | 2026-04-04 | 🔥 **+761** | 🪨 为什么在很少令牌欺骗时使用许多令牌— Claude Code技能通过像穴居人一样说话来削减65 ％的令牌 |
-| 11 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 79,722 | 9,205 | 2026-04-28 | 🔥 **+761** | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM |
-| 12 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 59,069 | 9,638 | 2025-05-03 | 🔥 **+711** | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - |
-| 13 | [usestrix/strix](https://github.com/usestrix/strix) | 42,648 | 4,406 | 2025-08-05 | 🔥 **+621** | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
-| 14 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 105,571 | 11,623 | 2024-10-31 | 🔥 **+472** | 🌐 让人工智能代理可以访问网站。轻松实现在线任务自动化。 |
-| 15 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 39,948 | 3,312 | 2025-12-10 | 🔥 **+472** | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support |
-| 16 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 98,151 | 14,495 | 2024-03-11 | 🔥 **+426** | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 17 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 80,539 | 15,645 | 2023-05-21 | 🔥 **+398** | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. |
-| 18 | [google/langextract](https://github.com/google/langextract) | 37,548 | 2,593 | 2025-07-08 | 🔥 **+392** | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
-| 19 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 57,903 | 49,757 | 2026-01-10 | 🔥 **+372** | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f |
-| 20 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 93,687 | 18,111 | 2024-12-28 | 🔥 **+367** | TradingAgent ：多代理LLM金融交易框架 |
+| 1 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 92,304 | 8,980 | 2026-04-03 | 🔥 **+3,293** | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 40,500 | 6,722 | 2026-03-18 | 🔥 **+861** | 学习它，构建它。为其他人运送。 |
+| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 217,779 | 41,081 | 2025-07-22 | 🔥 **+538** | 与您一起成长的客服代表 |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 86,616 | 4,727 | 2026-06-12 | 🔥 **+526** | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 5 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 153,564 | 8,768 | 2024-04-15 | 🔥 **+413** | 用于大规模搜索、抓取和与Web交互的API。 🔥 |
+| 6 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 91,203 | 5,172 | 2026-04-04 | 🔥 **+369** | 🪨 为什么在很少令牌欺骗时使用许多令牌— Claude Code技能通过像穴居人一样说话来削减65 ％的令牌 |
+| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 231,559 | 35,333 | 2026-01-18 | 🔥 **+334** | 座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。 |
+| 8 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 79,996 | 9,228 | 2026-04-28 | 🔥 **+274** | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM |
+| 9 | [usestrix/strix](https://github.com/usestrix/strix) | 42,911 | 4,430 | 2025-08-05 | 🔥 **+263** | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| 10 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 59,269 | 9,663 | 2025-05-03 | 🔥 **+200** | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - |
+| 11 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 98,337 | 14,530 | 2024-03-11 | 🔥 **+186** | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| 12 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 105,750 | 11,642 | 2024-10-31 | 🔥 **+179** | 🌐 让人工智能代理可以访问网站。轻松实现在线任务自动化。 |
+| 13 | [langgenius/dify](https://github.com/langgenius/dify) | 149,509 | 23,564 | 2023-04-12 | 🔥 **+154** | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb |
+| 14 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 93,825 | 18,133 | 2024-12-28 | 🔥 **+138** | TradingAgent ：多代理LLM金融交易框架 |
+| 15 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 146,113 | 21,184 | 2023-10-06 | 🔥 **+128** | 用户友好的AI界面（支持Ollama、OpenAI API等） |
+| 16 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 87,996 | 7,635 | 2025-08-31 | 🔥 **+124** | 每个座席跨会话的持久上下文–捕获座席在会话期间执行的所有操作，使用AI对其进行压缩，并将相关上下文注入到未来的会话中。适用于Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等 |
+| 17 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 81,432 | 10,418 | 2024-03-13 | 🔥 **+108** | 🙌 OpenHands ：人工智能驱动的开发 |
+| 18 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 86,737 | 19,644 | 2023-02-09 | 🔥 **+87** | LLM的高吞吐量和内存效率推断和服务引擎 |
+| 19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 142,187 | 23,648 | 2022-10-17 | 🔥 **+85** | The agent engineering platform. |
+| 20 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31,516 | 3,327 | 2023-05-18 | 🔥 **+85** | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 |
 
 ---
 
@@ -38,35 +38,35 @@
 
 | 项目 | ⭐ 最新 Stars | 🍴 Forks | 📅 创建日期 | 📊 历史最高日增 | 📅 最高日增日期 | 📝 完整功能描述 |
 |------|-------------|---------|------------|---------------|----------------|----------------|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 231,225 | 35,280 | 2026-01-18 | +3,439 | 2026-06-16 | 座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 217,241 | 40,905 | 2025-07-22 | +4,500 | 2026-06-16 | 与您一起成长的客服代表 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 231,559 | 35,333 | 2026-01-18 | +3,439 | 2026-06-16 | 座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 217,779 | 41,081 | 2025-07-22 | +4,500 | 2026-06-16 | 与您一起成长的客服代表 |
 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 195,920 | 75,185 | 2015-11-07 | +93 | 2026-06-24 | An Open Source Machine Learning Framework for Everyone |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 193,818 | 58,792 | 2019-06-22 | +402 | 2026-06-19 | 具有原生AI功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自托管或云、400多个集成相结合。 |
 | [ollama/ollama](https://github.com/ollama/ollama) | 174,400 | 16,664 | 2023-06-26 | +79 | 2026-06-17 | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
 | [f/prompts.chat](https://github.com/f/prompts.chat) | 164,195 | 21,262 | 2022-12-05 | +84 | 2026-06-24 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 153,151 | 8,749 | 2024-04-15 | +2,060 | 2026-06-16 | 🔥 搜索、抓取和清理网络上的人工智能代理。 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 153,564 | 8,768 | 2024-04-15 | +2,060 | 2026-06-16 | 🔥 搜索、抓取和清理网络上的人工智能代理。 |
 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 151,700 | 9,654 | 2023-02-08 | +380 | 2026-07-03 | Langflow是构建和部署人工智能驱动的代理和工作流的强大工具。 |
-| [langgenius/dify](https://github.com/langgenius/dify) | 146,330 | 23,013 | 2023-04-12 | +178 | 2026-06-04 | 用于代理工作流程开发的生产就绪平台。 |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 142,781 | 20,544 | 2023-10-06 | +209 | 2026-06-17 | 用户友好的AI界面（支持Ollama、OpenAI API等） |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 140,012 | 23,215 | 2022-10-17 | +111 | 2026-06-24 | The agent engineering platform. |
+| [langgenius/dify](https://github.com/langgenius/dify) | 149,509 | 23,564 | 2023-04-12 | +178 | 2026-06-04 | 用于代理工作流程开发的生产就绪平台。 |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 146,113 | 21,184 | 2023-10-06 | +209 | 2026-06-17 | 用户友好的AI界面（支持Ollama、OpenAI API等） |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 142,187 | 23,648 | 2022-10-17 | +111 | 2026-06-24 | The agent engineering platform. |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 122,849 | 18,118 | 2024-04-29 | +1,191 | 2026-07-15 | 100多个AI Agent和RAG应用程序，您可以实际运行—克隆、自定义、发货。 |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 117,936 | 7,900 | 2025-08-04 | +4,160 | 2026-06-16 | Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent的跨平台桌面一体机助手。唯一官方网站： ccswitch.io |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 105,571 | 11,623 | 2024-10-31 | +840 | 2026-06-16 | 🌐 让人工智能代理可以访问网站。轻松实现在线任务自动化。 |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 105,750 | 11,642 | 2024-10-31 | +840 | 2026-06-16 | 🌐 让人工智能代理可以访问网站。轻松实现在线任务自动化。 |
 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 101,034 | 28,105 | 2016-08-13 | +74 | 2026-06-24 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 98,151 | 14,495 | 2024-03-11 | +3,394 | 2026-05-30 | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 98,337 | 14,530 | 2024-03-11 | +3,394 | 2026-05-30 | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 97,610 | 14,965 | 2023-07-23 | +61 | 2026-06-24 | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 93,687 | 18,111 | 2024-12-28 | +1,441 | 2026-06-16 | TradingAgent ：多代理LLM金融交易框架 |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 90,834 | 5,147 | 2026-04-04 | +2,057 | 2026-07-04 | 🪨 为什么在很少令牌欺骗时使用许多令牌— Claude Code技能通过像穴居人一样说话来削减65 ％的令牌 |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 89,011 | 8,697 | 2026-04-03 | +1,662 | 2026-07-15 | AI编码助理技能（ Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码、SQL架构、R脚本、shell脚本、文档、论文、图像或视频文件夹转换为可查询的知识图。一个图形中的应用代码+数据库架构+基础设施。 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 93,825 | 18,133 | 2024-12-28 | +1,441 | 2026-06-16 | TradingAgent ：多代理LLM金融交易框架 |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 92,304 | 8,980 | 2026-04-03 | +3,293 | 2026-07-21 | AI编码助理技能（ Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码、SQL架构、R脚本、shell脚本、文档、论文、图像或视频文件夹转换为可查询的知识图。一个图形中的应用代码+数据库架构+基础设施。 |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 91,203 | 5,172 | 2026-04-04 | +2,057 | 2026-07-04 | 🪨 为什么在很少令牌欺骗时使用许多令牌— Claude Code技能通过像穴居人一样说话来削减65 ％的令牌 |
 | [opencv/opencv](https://github.com/opencv/opencv) | 88,862 | 56,635 | 2012-07-19 | +292 | 2026-06-09 | 开源计算机视觉库 |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 86,090 | 4,697 | 2026-06-12 | +1,432 | 2026-07-20 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 85,984 | 7,443 | 2025-08-31 | +906 | 2026-06-16 | 每个座席跨会话的持久上下文–捕获座席在会话期间执行的所有操作，使用AI对其进行压缩，并将相关上下文注入到未来的会话中。适用于Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等 |
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 84,322 | 18,512 | 2023-02-09 | +398 | 2026-06-25 | LLM的高吞吐量和内存效率推断和服务引擎 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 87,996 | 7,635 | 2025-08-31 | +906 | 2026-06-16 | 每个座席跨会话的持久上下文–捕获座席在会话期间执行的所有操作，使用AI对其进行压缩，并将相关上下文注入到未来的会话中。适用于Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等 |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 86,737 | 19,644 | 2023-02-09 | +398 | 2026-06-25 | LLM的高吞吐量和内存效率推断和服务引擎 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 86,616 | 4,727 | 2026-06-12 | +1,432 | 2026-07-20 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 83,530 | 10,860 | 2020-05-08 | +689 | 2026-06-06 | 将任何PDF或图像文档转换为AI的结构化数据。功能强大、重量轻的OCR工具包，可弥合图像/PDF和LLM之间的差距。支持100多种语言。 |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 83,465 | 9,667 | 2023-12-12 | +96 | 2026-06-24 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 81,432 | 10,418 | 2024-03-13 | +817 | 2026-06-16 | 🙌 OpenHands ：人工智能驱动的开发 |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 80,539 | 15,645 | 2023-05-21 | +398 | 2026-07-20 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 80,245 | 10,236 | 2024-03-13 | +817 | 2026-06-16 | 🙌 OpenHands ：人工智能驱动的开发 |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 79,722 | 9,205 | 2026-04-28 | +2,532 | 2026-06-16 | 🎨 本地优先，开源Claude Design替代品。🖥️原生桌面应用程序。⚡100 +技能· ✨ 100 +设计系统🖼️Web ·桌面·移动原型·幻灯片·图像·视频· HyperFrames📦沙盒预览· HTML/PDF/PPTX/MP4导出🤖Claude Code/OpenClaw/Codex/Cursor/OpenCode/Qwen/Copilot/Hermes/Kimi和17 + CLI。 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 79,996 | 9,228 | 2026-04-28 | +2,532 | 2026-06-16 | 🎨 本地优先，开源Claude Design替代品。🖥️原生桌面应用程序。⚡100 +技能· ✨ 100 +设计系统🖼️Web ·桌面·移动原型·幻灯片·图像·视频· HyperFrames📦沙盒预览· HTML/PDF/PPTX/MP4导出🤖Claude Code/OpenClaw/Codex/Cursor/OpenCode/Qwen/Copilot/Hermes/Kimi和17 + CLI。 |
 | [netdata/netdata](https://github.com/netdata/netdata) | 79,246 | 6,474 | 2013-06-17 | +70 | 2026-06-18 | The fastest path to AI-powered full stack observability, even for lean teams. |
 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 77,103 | 7,635 | 2026-04-03 | +4,442 | 2026-06-06 | AI编码助理技能（ Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码、SQL架构、R脚本、shell脚本、文档、论文、图像或视频文件夹转换为可查询的知识图。一个图形中的应用代码+数据库架构+基础设施。 |
 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 75,920 | 8,318 | 2022-12-16 | +49 | 2026-06-24 | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. |
@@ -87,7 +87,7 @@
 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 60,739 | 13,569 | 2022-12-12 | +68 | 2026-06-24 | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 60,357 | 4,519 | 2026-01-07 | +1,299 | 2026-06-25 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | 60,115 | 11,917 | 2026-04-04 | +1,424 | 2026-06-16 | 基于Claude Code构建的人工智能求职系统。14种技能模式、Go仪表板、PDF生成、批量处理。 |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 59,069 | 9,638 | 2025-05-03 | +1,557 | 2026-07-07 | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity.  |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 59,269 | 9,663 | 2025-05-03 | +1,557 | 2026-07-07 | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity.  |
 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 58,734 | 11,245 | 2022-09-11 | +56 | 2026-06-24 | Ultralytics YOLO 🚀 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 58,134 | 4,667 | 2026-02-24 | +4,265 | 2026-06-19 | 让您的人工智能代理看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu —一个CLI ，无API费用。 |
 | [upstash/context7](https://github.com/upstash/context7) | 57,933 | 2,725 | 2025-03-26 | +60 | 2026-06-24 | Context7平台-- LLM和AI代码编辑的最新代码文档 |
@@ -98,15 +98,15 @@
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 52,876 | 6,824 | 2024-07-27 | +220 | 2026-07-08 | 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h! |
 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 51,537 | 10,388 | 2021-03-03 | +1,071 | 2026-07-02 | 12 Weeks, 24 Lessons, AI for All! |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 48,752 | 5,126 | 2024-08-23 | +744 | 2026-06-06 | 开源、可扩展的AI代理，超越代码建议-使用任何LLM安装、执行、编辑和测试 |
-| [usestrix/strix](https://github.com/usestrix/strix) | 42,648 | 4,406 | 2025-08-05 | +8,476 | 2026-07-04 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 42,911 | 4,430 | 2025-08-05 | +8,476 | 2026-07-04 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 40,500 | 6,722 | 2026-03-18 | +2,026 | 2026-06-16 | 学习它，构建它。为其他人运送。 |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 40,116 | 4,751 | 2026-03-29 | +905 | 2026-07-20 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 39,948 | 3,312 | 2025-12-10 | +1,748 | 2026-06-16 | AI可从任何文档生成真实、可编辑的PowerPoint —原生形状和动画、作为音频旁白发声的演讲者笔记，以及遵循您自己的.pptx模板的选项，而不是Hugo He的幻灯片图像· |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 39,639 | 6,625 | 2026-03-18 | +2,026 | 2026-06-16 | 学习它，构建它。为其他人运送。 |
 | [google/langextract](https://github.com/google/langextract) | 37,548 | 2,593 | 2025-07-08 | +392 | 2026-07-20 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 36,666 | 5,180 | 2024-10-02 | +56 | 2026-06-17 | [EMNLP2025] “LightRAG ：简单快速的检索-增强生成” |
 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 35,566 | 5,956 | 2023-08-09 | +112 | 2026-06-24 | Build resilient agents. |
 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 34,452 | 4,320 | 2023-06-19 | +532 | 2026-06-07 | Agent和生成式UI的前端堆栈。React + Angular。AG-UI协议的制造商 |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29,621 | 3,080 | 2023-05-18 | +83 | 2026-06-17 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31,516 | 3,327 | 2023-05-18 | +85 | 2026-07-21 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 |
 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | 29,311 | 2,713 | 2024-03-24 | +190 | 2026-06-20 | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 28,880 | 1,620 | 2026-03-02 | +972 | 2026-06-25 | Google Workspace CLI —一个用于云端硬盘、Gmail、日历、工作表、文档、聊天、管理员等的命令行工具。从Google Discovery服务动态生成。包括人工智能代理技能。 |
 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 27,795 | 5,755 | 2024-02-06 | +204 | 2026-06-20 | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
@@ -116,4 +116,4 @@
 
 ---
 
-*🤖 自动生成于 2026-07-20 · 数据来源 [GitHub API](https://api.github.com) · 项目地址 [ai-star-tracker](https://github.com/jerizhangWeb3th/ai-star-tracker)*
+*🤖 自动生成于 2026-07-21 · 数据来源 [GitHub API](https://api.github.com) · 项目地址 [ai-star-tracker](https://github.com/jerizhangWeb3th/ai-star-tracker)*
